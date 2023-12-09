@@ -13,7 +13,7 @@ public class CorsConfig {
     //When you know the domain name for your client, add it below before deployment
     private static final String[] ALLOWED_ORIGINS = new String[] {
             "*",
-            "https://delightful-stone-0dbf47103.4.azurestaticapps.net",
+            "https://polite-coast-091f57e03.4.azurestaticapps.net",
             "http://127.0.0.1:5500"
     };
     @Bean
